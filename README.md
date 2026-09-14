@@ -1,0 +1,11 @@
+# S.P.A.R.K. Conference
+
+Готовая статическая версия сайта конференции S.P.A.R.K. для публикации на GitHub Pages.
+
+## Публикация
+1. Загрузите все файлы и папку `assets` в корень репозитория GitHub.
+2. Откройте Settings → Pages.
+3. В разделе Build and deployment выберите Deploy from a branch.
+4. Выберите ветку `main` и папку `/ (root)`.
+
+Главная страница: `index.html`.
